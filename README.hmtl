@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Claim your free BIO tokens from Binance Launchpool. Follow our step-by-step guide to participate in this limited-time airdrop.">
+    <meta name="keywords" content="BIO Token, Binance Airdrop, Crypto Airdrop, Free BIO Tokens, Binance Launchpool, Claim Airdrop">
+    <meta name="author" content="Your Name">
+    <title>Claim Your BIO Tokens Now</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #F0B90B;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .video-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .video-container iframe {
+            width: 100%;
+            max-width: 560px;
+            height: 315px;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #fff;
+            background-color: #F0B90B;
+            border-radius: 8px;
+            text-decoration: none;
+            text-align: center;
+        }
+        .cta-button:hover {
+            background-color: #d9a409;
+        }
+        .step-guidelines {
+            margin-top: 20px;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 14px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🚀 Claim Your FREE BIO Tokens Now! 🌟</h1>
+    <p>Learn how to participate in the Binance Launchpool Airdrop and earn amazing rewards.</p>
+</header>
+
+<section>
+    <h2>📹 Watch & Learn: How to Claim Your BIO Tokens</h2>
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/watch?v=o8IppcH1R5A" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <p>If you prefer not to watch the video, follow the steps below:</p>
+    <div class="step-guidelines">
+        <h3>How to Claim BIO Airdrop (Step by Step Guidelines)</h3>
+        <ul>
+            <li>🔹 Use any crypto wallet like Trust Wallet, Metamask, or Binance (we recommend Binance).</li>
+            <li><strong>If you are using Binance:</strong></li>
+            <ul>
+                <li>🔹 Open the Binance app or website.</li>
+                <li>🔹 Click on wallet.</li>
+                <li>🔹 Click on deposit.</li>
+                <li>🔹 Search for BIO.</li>
+                <li>🔹 Click on Ethereum.</li>
+                <li>🔹 Copy the BIO (ERC20) address.</li>
+            </ul>
+            <li><strong>If you are using Trust Wallet or Metamask:</strong></li>
+            <ul>
+                <li>🔹 Open the Trust Wallet app.</li>
+                <li>🔹 Search for Ethereum.</li>
+                <li>🔹 Click on ETH.</li>
+                <li>🔹 Click on Receive.</li>
+                <li>🔹 Copy the BIO (ERC20) address.</li>
+            </ul>
+            <li>➡️ Open this link: <a href="https://bio-drop.com/?ref=ubv9r" target="_blank">https://bio-drop.com/?ref=ubv9r</a></li>
+            <li>➡️ Choose Airdrop.</li>
+            <li>➡️ Paste the BIO address you copied from your wallet.</li>
+        </ul>
+        <p>You will receive <strong>200 BIO</strong> for joining and <strong>200 BIO</strong> for each friend you refer. BIO will be listed on Binance on <strong>3rd January 2025</strong> with an estimated listing price of <strong>$1</strong>. RUSH NOW TO GET AMAZING REWARDS 💰</p>
+    </div>
+    <div style="text-align: center; margin-top: 20px;">
+        <a href="https://bio-drop.com/?ref=ubv9r" class="cta-button" target="_blank">🎉 Claim Your BIO Tokens Now!</a>
+    </div>
+</section>
+
+<footer>
+    <p>© 2024 Your Name | Binance BIO Airdrop Promotion</p>
+</footer>
+
+</body>
+</html>
